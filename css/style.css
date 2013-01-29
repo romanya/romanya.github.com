@@ -25,6 +25,9 @@ img {
 .photo {
 	text-align: center;
 	position: relative;
+	width: 200px;
+	height: 200px;
+	margin: 0px auto;
 }
 .photo img {
 	width: 200px;
