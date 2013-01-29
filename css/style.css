@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+ }
+body {
+    position: relative;
+    height: 100%;
+    padding: 0px;
+    margin: 0 auto;
+    font-size: 100%;
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    color: #000000;
+    line-height: 1.5;
+    min-width: 300px;
+}
+h1 {
+	text-align: center;
+	font-size: 120%;
+}
+.photo {
+	text-align: center;
+}
+.photo img {
+	vertical-align: middle;
+	max-width: 400px;
+	max-height: 300px;
+}
