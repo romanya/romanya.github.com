@@ -32,3 +32,8 @@ img {
 	width: 200px;
 	height: 200px;
 }
+.photo2 {
+	background: url("../images/circle2.png") top left no-repeat;
+	width: 200px;
+	height: 200px;
+}
