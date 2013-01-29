@@ -34,6 +34,8 @@ img {
 }
 .photo2 {
 	background: url("../images/circle2.png") top left no-repeat;
+	-background: none;  
+	-filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/circle2.png', sizingMethod='crop');		
 	width: 200px;
 	height: 200px;
 }
