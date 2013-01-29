@@ -9,18 +9,24 @@ body {
     font-size: 100%;
     font-family: Helvetica, Arial, Verdana, sans-serif;
     color: #000000;
-    line-height: 1.5;
+    line-height: 1.2;
     min-width: 300px;
 }
 h1 {
 	text-align: center;
 	font-size: 120%;
 }
+img {
+	behavior: url("css/png.htc");
+	border: none;
+	padding: 0px;
+	margin: 0px;
+}
 .photo {
 	text-align: center;
 }
 .photo img {
 	vertical-align: middle;
-	max-width: 400px;
-	max-height: 300px;
+	width: 200px;
+	height: 200px;
 }
