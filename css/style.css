@@ -17,7 +17,7 @@ h1 {
 	font-size: 120%;
 }
 img {
-	behavior: url("css/png.htc");
+	behavior: url("png.htc");
 	border: none;
 	padding: 0px;
 	margin: 0px;
